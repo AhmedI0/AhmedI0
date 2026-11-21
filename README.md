@@ -8,7 +8,7 @@ My doctoral research examines the alpha-hemolysin of *Escherichia coli* and its 
 
 #### Large-scale and high-performance computing
 
-- **NHR@ZIB compute-time grant** on the national supercomputer *Lise* (Zuse Institute Berlin) for the project “Global population structure and evolution of typical and atypical enteropathogenic *E. coli* (EPEC)”. The allocation also covers the computationally demanding parts of my dissertation: long-read assembly and annotation, variant analysis of the *hlyA* and adhesin genes, and phylogenomic analysis of the whole collection.
+- **NHR@ZIB compute-time grant** on the national supercomputer *Lise* (Zuse Institute Berlin) for the project “Global population structure and evolution of typical and atypical enteropathogenic *E. coli* (EPEC)”. Within our research group I am responsible for the computationally intensive analyses, which I plan, run and maintain on this allocation.
 - **Scalable pipelines.** On *Lise* I build and run Slurm-scheduled pipelines that extend these analyses to tens of thousands of bacterial genomes for population-structure and phylogenomic studies.
 - **Data at scale.** A comparative genomics database of more than 9,000 NCBI strains for machine-learning-based functional annotation; 359,889 single cells from two independent pulmonary fibrosis cohorts; five matched data layers (transcriptome, proteome, somatic mutations, copy number and survival) for 136 pancreatic tumours and 9,254 genes.
 
