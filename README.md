@@ -19,18 +19,17 @@ My doctoral research examines the alpha-hemolysin of *Escherichia coli* and its 
 
 #### Publications
 
-*Published*
+*Peer-reviewed*
 
 1. **Mushtaq MA**, Schierack P, Yousaf M, Fatima F, Qamar T, Mohsin M, Khan MM (2026). Integrated poultry production as a reservoir of *tet*(X4) and *mcr-1.1* encoding *Escherichia coli* in Pakistan. *Microbial Genomics* 12(8). [doi:10.1099/mgen.0.001800](https://doi.org/10.1099/mgen.0.001800)
 2. Khan MM, **Mushtaq MA**, Suleman M, Ahmed U, Ashraf MF, Aslam R, Mohsin M, Rödiger S, Sarwar Y, Schierack P, Ali A (2025). Fecal microbiota landscape of commercial poultry farms in Faisalabad, Pakistan: a 16S rRNA gene-based metagenomics study. *Poultry Science* 104(6), 105089. [doi:10.1016/j.psj.2025.105089](https://doi.org/10.1016/j.psj.2025.105089)
 3. Abdullah S, **Mushtaq MA**, Ullah K, Hassan B, Azam M, Zahoor MA, Wang J, Xu J, Toleman MA, Mohsin M (2025). Dissemination of clinical *Escherichia coli* harboring the *mcr-1* gene in Pakistan. *Frontiers in Microbiology* 15. [doi:10.3389/fmicb.2024.1502528](https://doi.org/10.3389/fmicb.2024.1502528)
 4. Khan MM, **Mushtaq MA**, Abbas N, Fatima F, Gibbon MJ, Schierack P, Mohsin M (2024). Occurrence, antimicrobial resistance and genomic features of *Klebsiella pneumoniae* from broiler chicken in Faisalabad, Pakistan. *Frontiers in Veterinary Science* 11. [doi:10.3389/fvets.2024.1433124](https://doi.org/10.3389/fvets.2024.1433124)
 5. Abdullah S, Almusallam A, Li M, Mahmood MS, **Mushtaq MA**, Eltai NO, Toleman MA, Mohsin M (2023). Whole genome-based genetic insights of *bla*<sub>NDM</sub> producing clinical *E. coli* isolates in hospital settings of Pakistan. *Microbiology Spectrum* 11(5). [doi:10.1128/spectrum.00584-23](https://doi.org/10.1128/spectrum.00584-23)
-6. Rafiq A, Zahra T, Ali S, Shahid A, Iqbal M, Ijaz A, **Mushtaq MA** (2021). A review on different diseases due to human gut microbiota dysbiosis. 19(1), 1–10.
 
 *Under review*
 
-7. Dong L, Farooq W, Zhou Y, Cui R, **Mushtaq MA**, Liu Q, Aslam HM, Wu C. CD40-overexpressed mesenchymal stem cells enhance macrophage-mediated control of *Mycobacterium tuberculosis*. Submitted to *Archives of Microbiology*.
+6. Dong L, Farooq W, Zhou Y, Cui R, **Mushtaq MA**, Liu Q, Aslam HM, Wu C. CD40-overexpressed mesenchymal stem cells enhance macrophage-mediated control of *Mycobacterium tuberculosis*. Submitted to *Archives of Microbiology*.
 
 *Conference talk:* oral presentation of the doctoral study at the 78th Annual Conference of the German Society for Hygiene and Microbiology (DGHM), Hamburg, September 2026.
 
